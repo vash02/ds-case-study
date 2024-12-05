@@ -62,6 +62,7 @@ We fitted a **right-skewed Gaussian distribution** to model net revenue and iden
 ![image](https://github.com/user-attachments/assets/3ffd236f-7a77-4a30-a912-a701529627d6)
 
 - **Gaussian Fit:** Showcased fitted curves and optimal bid point.
+![image](https://github.com/user-attachments/assets/e38e00ed-0571-4572-8cb8-dde3fc3253c5)
 
 
 ---
