@@ -43,13 +43,17 @@ This repository contains solutions to two problems tackled in a data science cas
    - **Right-Skewed Gaussian Fit**
 3. Identified the **optimal bid price** by optimizng the objective function.
 
-#### Key Visualizations (in the notebook):
+#### Key Visualizations:
 - **Estimated Win Rates vs. Bid Price:** Plotted win rates against bid prices.
 ![image](https://github.com/user-attachments/assets/fe9f1501-8b30-4ed3-882a-da07bd542d38)
 
 
 - **Expected Revenue vs bid price:** Showcased plotted curves and optimal bid point.
 ![image](https://github.com/user-attachments/assets/baf45e7c-ac9d-4d1a-870d-945bd0f22668)
+
+- **Expected Revenue vs bid price:** Showcased plotted curves and optimal bid point (with advertiser payment per win = 9).
+![image](https://github.com/user-attachments/assets/9f84c46b-7e30-40fd-a6d1-4f4db0898b0b)
+
 
 
 ---
