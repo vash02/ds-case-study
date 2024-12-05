@@ -44,8 +44,9 @@ This repository contains solutions to two problems tackled in a data science cas
 3. Identified the **optimal bid price** by optimizng the objective function.
 
 #### Key Visualizations (in the notebook):
-- **Net Revenue vs. Bid Price:** Plotted revenue against bid prices.
-![image](https://github.com/user-attachments/assets/3ffd236f-7a77-4a30-a912-a701529627d6)
+- **Estimated Win Rates vs. Bid Price:** Plotted win rates against bid prices.
+![image](https://github.com/user-attachments/assets/fe9f1501-8b30-4ed3-882a-da07bd542d38)
+
 
 - **Expected Revenue vs bid price:** Showcased plotted curves and optimal bid point.
 ![image](https://github.com/user-attachments/assets/baf45e7c-ac9d-4d1a-870d-945bd0f22668)
